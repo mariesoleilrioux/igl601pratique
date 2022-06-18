@@ -1,2 +1,2 @@
-# igl601exam
+# igl601pratique
 pratique exam igl601
